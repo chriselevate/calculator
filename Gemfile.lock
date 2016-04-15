@@ -23,6 +23,3 @@ PLATFORMS
 DEPENDENCIES
   makersinit
   rspec
-
-BUNDLED WITH
-   1.10.6
